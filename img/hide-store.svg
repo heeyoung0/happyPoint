@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="prefix__ic_store">
+        <path id="prefix__guide" d="M0 0H36V36H0z" style="opacity:0;fill:none"/>
+        <g id="prefix__그룹_5977" data-name="그룹 5977" transform="translate(7 7)">
+            <path id="prefix__패스_10856" d="M353.27 587.488a11.086 11.086 0 0 0-22 0" class="prefix__cls-2" data-name="패스 10856" transform="translate(-331.27 -577.782)"/>
+            <path id="prefix__패스_10857" d="M353.27 598.782a11.086 11.086 0 0 1-22 0" class="prefix__cls-2" data-name="패스 10857" transform="translate(-331.27 -586.488)"/>
+            <path id="prefix__빼기_2" d="M344.436 597.635a10.757 10.757 0 0 1-2.3-1.828 8.915 8.915 0 0 1-1.576-2.218 6.823 6.823 0 0 1-.717-3.027 4.209 4.209 0 0 1 1.144-3.082 4.66 4.66 0 0 1 3.248-1.48h.207a4.49 4.49 0 0 1 4.591 4.171c.006.13.006.259 0 .388a6.826 6.826 0 0 1-.718 3.027 8.881 8.881 0 0 1-1.576 2.218 10.733 10.733 0 0 1-2.3 1.831zm0-9.049a1.939 1.939 0 1 0 1.97 1.939 1.955 1.955 0 0 0-1.966-1.939z" data-name="빼기 2" transform="translate(-333.539 -580.697)" style="stroke:#fff;stroke-miterlimit:10;fill:none"/>
+        </g>
+    </g>
+</svg>

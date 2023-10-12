@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="prefix__ic_membership">
+        <path id="prefix__guide" d="M0 0H36V36H0z" style="opacity:0;fill:none"/>
+        <g id="prefix__그룹_6750" data-name="그룹 6750" transform="translate(4 8)">
+            <path id="prefix__사각형_3776" d="M0 0h20v15a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V0z" class="prefix__cls-2" data-name="사각형 3776" transform="translate(4 4)"/>
+            <g id="prefix__사각형_3779" data-name="사각형 3779" style="fill:#0a0a80;stroke:#fff">
+                <rect width="28" height="6" rx="2" style="stroke:none"/>
+                <rect width="27" height="5" x=".5" y=".5" rx="1.5" style="fill:none"/>
+            </g>
+            <path id="prefix__사각형_3780" d="M0 0H6V7H0z" class="prefix__cls-2" data-name="사각형 3780" transform="translate(14 14)"/>
+        </g>
+    </g>
+</svg>
