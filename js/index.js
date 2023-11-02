@@ -55,6 +55,9 @@ $(function() {
         headerHide.stop().slideUp(500);
         hideBg.stop().fadeOut(500)
     })
+    $('.bot_close').on('click', function() {
+        $(this).parent('.happy_bot').stop().fadeOut(200);
+    })
 })
 const label = document.querySelector('.label');
 const options = document.querySelectorAll('.optionItem');
