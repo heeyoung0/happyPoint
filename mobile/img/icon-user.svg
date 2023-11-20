@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__ic_info_change" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#fff;stroke:#222;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="prefix__ic" transform="translate(-.244 9.667)">
+        <g id="prefix__note" transform="translate(6.244 -5.667)">
+            <path id="prefix__패스_10935" d="M52 182.652v13.478a.879.879 0 0 0 .889.87h14.222a.879.879 0 0 0 .889-.87v-18.26a.879.879 0 0 0-.889-.87h-9.333a1.23 1.23 0 0 0-.832.321l-4.616 4.443a1.061 1.061 0 0 0-.33.888z" class="prefix__cls-1" data-name="패스 10935" transform="translate(-52 -177)"/>
+            <path id="prefix__패스_10936" d="M60.059 182v2.173a.872.872 0 0 1-.874.87H57" class="prefix__cls-1" data-name="패스 10936" transform="translate(-54.815 -179.826)"/>
+        </g>
+        <g id="prefix__pen" transform="translate(9.394 -5.042)">
+            <path id="prefix__패스_10937" d="M128 278.782a8.009 8.009 0 0 0 1.954-1.081c.868-.752 1.623-2.046 1.217-2.624-.515-.734-1.444 4.072-.906 4.632s3.624-3.709 3.624-3.709l-.906 3.706s1.925-1.853 3.624-1.853" data-name="패스 10937" transform="translate(-128 -268.196)" style="fill:none;stroke:#222;stroke-linecap:round;stroke-linejoin:round"/>
+            <path id="prefix__패스_10938" d="M154.814 255.75a1.869 1.869 0 0 0-.836-1.176l-.456-.285a1.9 1.9 0 0 0-2.607.589l-7.483 11.822a1.231 1.231 0 0 0-.17.434l-.448 2.426a1.231 1.231 0 0 0 .559 1.266 1.244 1.244 0 0 0 1.389-.046l2.006-1.45a1.243 1.243 0 0 0 .321-.341l7.481-11.818a1.858 1.858 0 0 0 .244-1.421z" data-name="패스 10938" transform="translate(-136.761 -253.999)" style="fill:#f5f5f5"/>
+            <path id="prefix__패스_10939" d="M155.281 258.279a.646.646 0 0 0-.2-.893l-.457-.286a.653.653 0 0 0-.9.2l-7.481 11.818-.448 2.426 2.006-1.45z" class="prefix__cls-1" data-name="패스 10939" transform="translate(-138.522 -255.766)"/>
+        </g>
+    </g>
+    <path id="prefix__guide" d="M0 0H28V28H0z" style="opacity:.51;fill:none"/>
+</svg>

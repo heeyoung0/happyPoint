@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>해피포인트 - 메인</title>
+    <link rel="icon" href="img/favicon.png">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="css/index.css" media="(max-width: 479px)">
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <script src="js/jquery-3.7.0.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="js/index.js"></script>
+</head>
+<body>
+    <div id="wrap">
+        <header>
+            <div class="header-logo">
+                <h1>
+                    <a href="index.html">
+                        <img src="img/logo-header.svg" alt="해피포인트 로고">
+                    </a>
+                </h1>
+            </div>
+            <div class="nav-ico">
+                <a href="javascript:;">
+                    <i class="menu-ico"></i>
+                </a>
+            </div>
+            <!-- header-logo -->
+        </header>
+        <aside class="side-menu">
+            <section class="side-menu-cont">
+                <div class="side-login">
+                    <a href="index.html" class="login-ico" title="홈으로 이동"></a>
+                    <a href="javascript:;" class="login-text">로그인해주세요</a>
+                    <i class="side-menu-close"></i>
+                </div>
+                <!-- side-login -->
+                <div class="side-menu-inner">
+                    <div class="side-card">
+                        <a href="javascript:;">
+                            <i class="icon new"></i>
+                            <span class="card-text">신규 카드 등록</span>
+                        </a>
+                        <a href="javascript:;">
+                            <i class="icon card-pwd"></i>
+                            <span class="card-text">카드 비밀번호 설정</span>
+                        </a>
+                        <a href="javascript:;">
+                            <i class="icon re-card"></i>
+                            <span class="card-text">카드 재발급 신청</span>
+                        </a>
+                        <a href="javascript:;">
+                            <i class="icon user"></i>
+                            <span class="card-text">회원정보</span>
+                        </a>
+                    </div>
+                    <!-- side-card -->
+                    <div class="menu-box happy-point">
+                        <h3>해피포인트</h3>
+                        <ul class="menu-list">
+                            <li>
+                                <a href="javascript:;">해피포인트란?</a>
+                            </li>
+                            <li>
+                                <a href="javascript:;">해피포인트 멤버십</a>
+                            </li>
+                            <li>
+                                <a href="javascript:;">해피포인트 앱소개</a>
+                            </li>
+                            <li>
+                                <a href="javascript:;">해피포인트 카드</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- happy-point -->
+                    <div class="menu-box benefit">
+                        <h3>혜택</h3>
+                        <ul class="menu-list">
+                            <li>
+                                <a href="javascript:;">SPC 브랜드</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- benefit -->
+                    <div class="menu-box cs">
+                        <h3>고객센터</h3>
+                        <ul class="menu-list">
+                            <li>
+                                <a href="javascript:;">Q&A</a>
+                            </li>
+                            <li>
+                                <a href="javascript:;">FAQ</a>
+                            </li>
+                            <li>
+                                <a href="javascript:;">공지사항</a>
+                            </li>
+                            <li>
+                                <a href="javascript:;">이용약관</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- cs -->
+                    <div class="menu-box chat-cs">
+                        <h3>채팅상담</h3>
+                        <ul class="menu-list">
+                            <li>
+                                <a href="javascript:;">해피포인트 상담</a>
+                            </li>
+                            <li>
+                                <a href="javascript:;">해피마켓 상담</a>
+                            </li>
+                            <li>
+                                <a href="javascript:;">해피오더 상담</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- chat-cs -->
+                    <ul class="sns-list">
+                        <li>
+                            <a href="javascript:;">
+                                <img src="img/icon-sns-insta.png" alt="인스타그램">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">
+                                <img src="img/icon-sns-blog.png" alt="블로그">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">
+                                <img src="img/icon-sns-youtube.png" alt="유튜브">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </aside>
+        <div class="bg"></div>
+        <!-- Swiper -->
+        <div class="swiper mainSlide">
+            <div class="swiper-wrapper mainBanner">
+                <div class="swiper-slide bg1"></div>
+                <div class="swiper-slide bg2"></div>
+            </div>
+            <!-- <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div> -->
+            <div class="swiper-control">
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+        <section class="card-regi">
+            <div class="contents-inner">
+                <div class="contents-title">
+                    <h2>카드 등록하시고 <br>다양한 혜택을 누려보세요</h2>
+                </div>
+                <ul class="card-benefit-list">
+                    <li class="item-list">
+                        <a href="javascript:;" title="My 포인트">
+                            <i class="list-icon my-point"></i>
+                            <span class="list-type">My 포인트</span>
+                        </a>
+                    </li>
+                    <li class="item-list">
+                        <a href="javascript:;" title="신규 카드 등록">
+                            <i class="list-icon new-card"></i>
+                            <span class="list-type">신규 카드 등록</span>
+                        </a>
+                    </li>
+                    <li class="item-list">
+                        <a href="javascript:;" title="카드 재발급 신청">
+                            <i class="list-icon card-return"></i>
+                            <span class="list-type">카드 재발급 신청</span>
+                        </a>
+                    </li>
+                    <li class="item-list">
+                        <a href="javascript:;" title="카드 비밀번호 신청">
+                            <i class="list-icon card-pwd"></i>
+                            <span class="list-type">카드 비밀번호 신청</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section class="more-service">
+            <div class="contents-inner">
+                <div class="contents-title">
+                    <h2>해피포인트의 더 많은 <br>서비스를 즐겨보세요</h2>
+                </div>
+                <ul class="happy-app-list">
+                    <li class="happy-app-type happy-point">
+                        <a href="javascript:;" title="해피포인트 앱 다운로드" ></a>
+                    </li>
+                    <li class="happy-app-type happy-order">
+                        <a href="javascript:;" title="해피오더 앱 다운로드" ></a>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section class="happy-point-menu">
+            <ul class="info-list">
+                <li>
+                    <a href="javascript:;" class="happy-point-info">
+                        <i class="info-icon"></i>
+                        <span class="happy-point-text">
+                            해피포인트 소개
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:;" class="happy-point-cs">
+                        <i class="info-icon"></i>
+                        <span class="happy-point-text">
+                            고객센터
+                        </span>
+                    </a>
+                </li>
+            </ul>
+        </section>
+        <section class="notice">
+            <div class="contents-inner">
+                <div class="notice-board">
+                    <div class="notice-title">
+                        <i class="notice-icon"></i>
+                        <span class="notice-text">공지</span>
+                    </div>
+                    <div class="notice-view">
+                        <a href="javascript:;">
+                            해피포인트 개인정보처리방침 변경 공지
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <div class="footer-menu">
+                <ul class="footer-menu-list">
+                    <li>
+                        <a href="javascript:;">로그인</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">회원가입</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">고객센터</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">PC버전</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">이용약관</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="company-info">
+                <p>(주) 섹타나인</p>
+                <div class="company-hide">
+                    <a href="javascript:;">
+                        해피포인트 챗봇 상담하기
+                    </a>
+                </div>
+            </div>
+            <div class="footer-sns">
+                <ul>
+                    <li>
+                        <a href="javascript:;">
+                            <img src="img/icon-sns-insta.png" alt="인스타그램">
+                        </a>
+                        <a href="javascript:;">
+                            <img src="img/icon-sns-blog.png" alt="블로그">
+                        </a>
+                        <a href="javascript:;">
+                            <img src="img/icon-sns-youtube.png" alt="유튜브">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="copy">
+                <p>Copyright &copy; by SPC ALL RIGHTS RESERVED.</p>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        //Pagination fraction
+    var swiper = new Swiper(".mainSlide", {
+        spaceBetween: 30,
+        centeredSlides: true,
+        autoplay: {
+            delay: 2500,
+            disableOnInteraction: false,
+        },
+        loop: true,
+        speed: 1000,
+        pagination: {
+            el: ".swiper-pagination",
+            type: "fraction",
+        },
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .prefix__cls-1,.prefix__cls-2{fill:none}.prefix__cls-2{stroke:#000;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="prefix__ic_card_reissue_" data-name="ic_card_reissue" transform="translate(.51 2)">
+        <path id="prefix__guide" d="M0 0H32V32H0z" class="prefix__cls-1" transform="translate(-.51 -2)"/>
+        <g id="prefix__그룹_7005" data-name="그룹 7005" transform="translate(-2 -1.908)">
+            <g id="prefix__그룹_6269" data-name="그룹 6269" transform="translate(4.49 3.908)">
+                <path id="prefix__패스_10912" d="M0 0v2.8h2.8" class="prefix__cls-2" data-name="패스 10912" transform="rotate(-45 23.826 -21.12)"/>
+                <path id="prefix__패스_10913" d="M-133.5 735.479a11.967 11.967 0 0 1-8.74 3.777 12 12 0 0 1-12-12 12 12 0 0 1 12-12 12 12 0 0 1 12 12" class="prefix__cls-2" data-name="패스 10913" transform="translate(154.237 -715.257)"/>
+            </g>
+            <g id="prefix__그룹_6330" data-name="그룹 6330" transform="translate(9.29 10.401)">
+                <g id="prefix__사각형_3744" data-name="사각형 3744" style="stroke:#000;fill:none">
+                    <rect width="13.714" height="10.286" rx="2" style="stroke:none"/>
+                    <rect width="12.714" height="9.286" x=".5" y=".5" class="prefix__cls-1" rx="1.5"/>
+                </g>
+                <path id="prefix__선_204" d="M0 0L2 0" data-name="선 204" transform="translate(2.718 3.185)" style="stroke-linecap:round;stroke:#000;fill:none"/>
+            </g>
+        </g>
+    </g>
+</svg>

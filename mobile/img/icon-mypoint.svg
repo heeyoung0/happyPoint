@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:none;stroke:#222;stroke-linecap:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__ic_mypoint" transform="translate(-12.49 -12)">
+        <path id="prefix__guide" d="M0 0H32V32H0z" transform="translate(12.49 12)" style="fill:none"/>
+        <g id="prefix__그룹_6334" data-name="그룹 6334" transform="translate(15.99 16)">
+            <path id="prefix__패스_10851" d="M422.77 486.5a12.2 12.2 0 0 0-24 0" class="prefix__cls-2" data-name="패스 10851" transform="translate(-398.27 -476.5)"/>
+            <path id="prefix__패스_10852" d="M422.77 497.5a12.2 12.2 0 0 1-24 0" class="prefix__cls-2" data-name="패스 10852" transform="translate(-398.27 -483.5)"/>
+            <text id="prefix__p" transform="translate(8.9 17)" style="font-size:12px;font-family:NotoSansCJKkr-Regular,Noto Sans CJK KR;letter-spacing:-.02em">
+                <tspan x="0" y="0">P</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
